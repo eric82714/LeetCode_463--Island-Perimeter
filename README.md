@@ -10,7 +10,10 @@ The island doesn't have "lakes" (water inside that isn't connected to the water 
 
 Input:
 
+![image](https://github.com/eric82714/LeetCode_463--Island-Perimeter/blob/master/image/input.PNG)
+
 Output: 16
 
 Explanation: The perimeter is the 16 yellow stripes in the image below:
 
+![image](https://github.com/eric82714/LeetCode_463--Island-Perimeter/blob/master/image/example.PNG)
